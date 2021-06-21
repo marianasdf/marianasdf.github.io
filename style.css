@@ -15,7 +15,7 @@ p {
     font-style: oblique;
 }
 
-lu {
+ul {
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
@@ -36,6 +36,7 @@ lu {
     left: 0;
     width: 100%;
     
+    
 }
 .buttons a{
     position:relative;
@@ -47,7 +48,8 @@ lu {
     font-weight: bold;
     font-size: 15px;
     top: 15px;
-    left: 10px;
+    left: 5px;
+    margin-left: 10px;
 }
 .picture img{
     max-width: 300px;
@@ -80,7 +82,6 @@ lu {
     padding: 20px;
     background-color:#dee2ff;
     margin-top: 20px;
-    position: absolute;
-    left: 0%;
-    width: 100%;
+    
 }
+
