@@ -2,13 +2,6 @@ body {
     background-color: #ddc4dd;
 }
 
-h1 {
-    font-family: cursive;
-    font-size: 30px;
-    color: #354f52;
-    font-weight: bold;
-}
-
 h2 {
     color: #354f52;
     font-family: cursive;
@@ -27,11 +20,67 @@ lu {
     font-size: 18px;
 }
 
-.button {
+.title{
+    font-family: cursive;
+    text-align: center;
+    color:#343a40;
+    margin-top: 90px;
+
+}
+
+.buttons{
+    background-color: #d8e2dc;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+.buttons a{
+    position:relative;
     color: #fff;
-    background-color: #6930c3;
-    padding: 13px;
+    background-color:#b5838d;
+    padding: 9px;
     text-decoration: none;
     border-radius: 4px;
     font-weight: bold;
+    font-size: 15px;
+    top: 15px;
+    left: 10px;
+}
+.picture img{
+    max-width: 300px;
+    max-height: 250px;
+    padding: 10px;
+    background-color: #b5838d;
+}
+.picture{
+    position: relative;
+    text-align:center;
+    top: 10px;
+    margin-bottom: 10px;
+}
+.description p{
+    text-align: center;
+}
+.buttons2 a{
+    color: #fff;
+    background-color:#b5838d;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 1em;
+}
+.buttons2{
+    text-align: center;
+}
+.color3{
+    padding: 20px;
+    background-color:#dee2ff;
+    margin-top: 20px;
+    position: absolute;
+    left: 0%;
+    width: 100%;
 }
