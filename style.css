@@ -4,11 +4,11 @@ body {
 
 h2 {
     color: #354f52;
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 p {
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
     text-align: justify;
     color: #343a40;
     font-size: 18px;
@@ -16,12 +16,12 @@ p {
 }
 
 lu {
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
 
 .title{
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     color:#343a40;
     margin-top: 90px;
